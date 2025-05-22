@@ -1,2 +1,8 @@
 # Pharmafy
-Do annual customer verification against your customer list
+Validate your pharmacy client list against the official **South African Pharmacy Council (SAPC)** register.
+
+> ✔️ Search by name or registration number (P/Y-number)  
+> ✔️ Identify invalid or mismatched clients  
+> ✔️ Download validation reports  
+> ✔️ Simple, fast, and open source
+
